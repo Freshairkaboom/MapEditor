@@ -1,4 +1,4 @@
-The goal of this map editor is to create a map for any 2D game that uses 16*16 pixel sized tiles, using provided 16*16 tile images. 
+The goal of this map editor is to create a map for any 2D game that uses 16\*16 pixel sized tiles, using provided 16\*16 tile images. 
 
 How to use:
 - Put any unique tiles you want included in the map in the res/tiles folder. Make sure the image is 16 pixels wide and 16 pixels high.
